@@ -6,7 +6,7 @@ app = Flask(__name__)
 # A simulated function to fetch weather data based on the city
 def get_current_weather(city):
     # Replace this with actual weather data retrieval logic
-    # Simulate weather data as a dictionary for demonstration
+    # Simulate weather data as a dictionary for demonstrationdddd
     return {
         "name": city,
         "weather": [{"description": "Sunny"}],
